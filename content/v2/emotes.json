@@ -264,6 +264,11 @@
             "format": "gif",
             "url": "https://cdn.betterttv.net/emote/634042bce6cf26500b42ce56/2x.gif",
             "sha1": "02c24c0a9ce788dd348cf0abc2bf6fbbd609437b"
+        },{
+            "name": "hearMeOut",
+            "format": "png",
+            "url": "emotes/hearmeout.png",
+            "sha1": "4de824fd08e9b0a329368c57f86f3b953cd766b0"
         },
         {
             "name": "Hmm",
