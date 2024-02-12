@@ -410,6 +410,12 @@
             "sha1": "c0c3514e9b8314ff54b8d15847d0d5fc43986c2b"
         },
         {
+            "name": "NoNo",
+            "format": "gif",
+            "url": "https://cdn.betterttv.net/emote/624cc9e93c6f14b6884482e3/2x.gif",
+            "sha1": "93f75311a16eda2ec65c691a7cea60c0a168499e"
+        },
+        {
             "name": "NOOO",
             "format": "gif",
             "url": "https://cdn.betterttv.net/emote/5fd1610acbd462462d56cd7d/2x.gif",
@@ -744,7 +750,11 @@
             "format": "gif",
             "url": "https://cdn.betterttv.net/emote/6097df5039b5010444d0e5ba/2x.gif",
             "sha1": "239dc8ca698443df3421e1c7f7d91946e50f8e85"
-        },
+        },{
+            "name": "SoupTime",
+            "format":  "gif",
+            "url":  "https://cdn.betterttv.net/emote/5eb464529af1ea16863a3987/2x.gif",
+            "sha1":" 5b1abf4112f97cfbae64e030e1791415383ae5fb"},
         {
             "name": "Stare",
             "format": "png",
