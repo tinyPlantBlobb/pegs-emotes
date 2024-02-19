@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2024-02-08T17:11:21.259761",
+    "lastUpdated": "2024-02-19T16:28:26.056706",
     "emotes": [
         {
             "name": "5Head",
@@ -264,7 +264,8 @@
             "format": "gif",
             "url": "https://cdn.betterttv.net/emote/634042bce6cf26500b42ce56/2x.gif",
             "sha1": "02c24c0a9ce788dd348cf0abc2bf6fbbd609437b"
-        },{
+        },
+        {
             "name": "hearMeOut",
             "format": "png",
             "url": "emotes/hearmeout.png",
@@ -727,6 +728,12 @@
             "sha1": "b5d5ecaba72b61363b37590ab90211b91667ac9e"
         },
         {
+            "name": "Sadgers",
+            "format": "png",
+            "url": "https://cdn.betterttv.net/emote/6060eb0d7493072efdeb63a2/2x.png",
+            "sha1": "90f45f192056d992742e127991259e2caf8114a2"
+        },
+        {
             "name": "SealTheDeal",
             "format": "png",
             "url": "https://cdn.betterttv.net/emote/65975e9e5b14926991882099/2x.png",
@@ -751,15 +758,23 @@
             "sha1": "4fce4ee9a49f01500104213c7eccead8b658df75"
         },
         {
+            "name": "SoupTime",
+            "format": "gif",
+            "url": "https://cdn.betterttv.net/emote/5eb464529af1ea16863a3987/2x.gif",
+            "sha1": "5b1abf4112f97cfbae64e030e1791415383ae5fb"
+        },
+        {
+            "name": "flop",
+            "format": "png",
+            "url": "emotes/flop.png",
+            "sha1": "641468731894b4bf9135c3d5249ecd15803a798c"
+        },
+        {
             "name": "SourPls",
             "format": "gif",
             "url": "https://cdn.betterttv.net/emote/6097df5039b5010444d0e5ba/2x.gif",
             "sha1": "239dc8ca698443df3421e1c7f7d91946e50f8e85"
-        },{
-            "name": "SoupTime",
-            "format":  "gif",
-            "url":  "https://cdn.betterttv.net/emote/5eb464529af1ea16863a3987/2x.gif",
-            "sha1":" 5b1abf4112f97cfbae64e030e1791415383ae5fb"},
+        },
         {
             "name": "Stare",
             "format": "png",

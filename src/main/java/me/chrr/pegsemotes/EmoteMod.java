@@ -24,7 +24,7 @@ import java.io.IOException;
 public class EmoteMod implements ClientModInitializer {
     private static final Logger LOGGER = LogManager.getLogger("pegs-emotes");
 
-    public static final String USER_AGENT = "PegsEmotes (github.com/chrrs)";
+    public static final String USER_AGENT = "pegs-emotes (github.com/tinyPlantBlobb)";
     public static final Identifier EMOTE_FONT = new Identifier("pegs-emotes", "font/emotes");
 
     @Override
